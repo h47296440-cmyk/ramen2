@@ -1,0 +1,6 @@
+{
+  "name": "本格ラーメン職人 - Ramen Legend",
+  "description": "好みのスープ、麺、具材を組み合わせて究極のラーメンを創り、店を繁盛させる本格経営シミュレーション。AI実力評価とSNSシェアカード生成機能を搭載したスマホ対応のクオリティゲームです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
